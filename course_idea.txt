@@ -1,0 +1,48 @@
+book or tutorial convert to video class
+
+
+* commont library in python
+
+the python standard library by example source code
+
+	Good title :
+
+	python standard library by example - explore the real python power with most used library
+
+	
+	the key point here is you do not want to reinvent the wheel
+
+
+
+	---> idea is in real life of code, we normally use libray, but rately create code by our self ---> good to go
+
+	---> instant source code, text ---> just convert it to video
+
+	---> easy to do
+
+
+
+* data structure and algorithm
+	---> make this realy easy and good ---> good to go
+
+* python and social web ---> good to go, this is important because social web
+  is now so important ---> this also not too complicated
+
+* python for Linux administrator ---> good
+
+* python and mysql database ---> this is too small ?
+
+* web scrapping with python ---> this is cool one also, scapping also a good place to go
+
+
+
+What create one section ?
+	* 
+
+
+
+
+
+
+
+

@@ -1,0 +1,132 @@
+total revernue USD :45700
+total revernue VND :1005400000
+number of enrolled :2285
+course name        :Introduction To Python For Ethical Hacking
+publish from       :Published 7/2016
+
+total revernue USD :39360
+total revernue VND :865920000
+number of enrolled :1968
+course name        :Algorithms - An Intro Course in Algorithms coded in Python
+publish from       :Published 6/2016
+
+total revernue USD :33860
+total revernue VND :744920000
+number of enrolled :1693
+course name        :Python for Beginners - The Python Masterclass: 20 Hours
+publish from       :Published 6/2016
+
+total revernue USD :23200
+total revernue VND :510400000
+number of enrolled :580
+course name        :Python A-Z™: Python For Data Science With Real Exercises!
+publish from       :Published 7/2016
+
+total revernue USD :10120
+total revernue VND :222640000
+number of enrolled :506
+course name        :Learn BDD/Gherkin with Python (Cucumber for Python)
+publish from       :Published 7/2016
+
+total revernue USD :8900
+total revernue VND :195800000
+number of enrolled :178
+course name        :Unsupervised Machine Learning Hidden Markov Models in Python
+publish from       :Published 6/2016
+
+total revernue USD :7560
+total revernue VND :166320000
+number of enrolled :189
+course name        :Scripting for Beginner [Python, Ruby, Shell]
+publish from       :Published 7/2016
+
+total revernue USD :7350
+total revernue VND :161700000
+number of enrolled :294
+course name        :Selenium WebDriver With Python 3.x - Novice To Ninja
+publish from       :Published 6/2016
+
+total revernue USD :7220
+total revernue VND :158840000
+number of enrolled :361
+course name        :The Complete Python/PostgreSQL Developer Course
+publish from       :Published 6/2016
+
+total revernue USD :6755
+total revernue VND :148610000
+number of enrolled :193
+course name        :Python for Programmers
+publish from       :Published 7/2016
+
+total revernue USD :5500
+total revernue VND :121000000
+number of enrolled :275
+course name        :From 0 to 1 : Spark for Data Science with Python
+publish from       :Published 6/2016
+
+total revernue USD :4800
+total revernue VND :105600000
+number of enrolled :96
+course name        :Deep Learning: Recurrent Neural Networks in Python
+publish from       :Published 7/2016
+
+total revernue USD :4500
+total revernue VND :99000000
+number of enrolled :225
+course name        :Python For Android Hacking Crash Course: Trojan Perspective
+publish from       :Published 6/2016
+
+total revernue USD :720
+total revernue VND :15840000
+number of enrolled :36
+course name        :Python Regular Expressions
+publish from       :Published 7/2016
+
+total revernue USD :460
+total revernue VND :10120000
+number of enrolled :23
+course name        :Python : Empower Yourself with Advanced Python Skills
+publish from       :Published 6/2016
+
+total revernue USD :300
+total revernue VND :6600000
+number of enrolled :15
+course name        :Python MySql From Scratch
+publish from       :Published 7/2016
+
+total revernue USD :280
+total revernue VND :6160000
+number of enrolled :14
+course name        :Learn Python by solving 100 Coding Challenges
+publish from       :Published 6/2016
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :9
+course name        :Learn Python Programming with practical examples
+publish from       :Published 7/2016
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :9
+course name        :Advanced Python Made Easy
+publish from       :Published 7/2016
+
+total revernue USD :150
+total revernue VND :3300000
+number of enrolled :3
+course name        :Building Web Apps Using Flask and Neo4j
+publish from       :Published 6/2016
+
+total revernue USD :60
+total revernue VND :1320000
+number of enrolled :3
+course name        :Investment Portfolio Analysis with Python
+publish from       :Published 7/2016
+
+total revernue USD :0
+total revernue VND :0
+number of enrolled :0
+course name        :Learn Python 3 in Under 1 Hour!
+publish from       :Published 6/2016
+
