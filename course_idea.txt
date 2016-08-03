@@ -8,6 +8,9 @@ the python standard library by example source code
 	Good title :
 
 	python standard library by example - explore the real python power with most used library
+	
+	python : introduction to standard library - boot up your skill to next level
+
 
 	
 	the key point here is you do not want to reinvent the wheel
@@ -19,14 +22,33 @@ the python standard library by example source code
 	---> instant source code, text ---> just convert it to video
 
 	---> easy to do
+	**********************************************************************************
+	---> smarter way to lean python --- a gent introduction on python most used library
+	**********************************************************************************
+
+
 
 
 
 * data structure and algorithm
+
+		---> Python for beginner : Master the basic algorithms
+
+		---> New way of explaination : Master the basic algorithms with python
+
+		---> Smarter way to learn algorithms with python
+
+
+
 	---> make this realy easy and good ---> good to go
+
+
+	
 
 * python and social web ---> good to go, this is important because social web
   is now so important ---> this also not too complicated
+
+
 
 * python for Linux administrator ---> good
 
