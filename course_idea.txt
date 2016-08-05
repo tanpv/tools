@@ -23,7 +23,7 @@ the python standard library by example source code
 
 	---> easy to do
 	**********************************************************************************
-	---> smarter way to lean python --- a gent introduction on python most used library
+	---> smarter way to lean python --- a gent introduction on python core library
 	**********************************************************************************
 
 
