@@ -1,0 +1,132 @@
+total revernue USD :396870
+total revernue VND :8731140000
+number of enrolled :13229
+course name        :The Complete iOS 10 Developer Course - Build 21 Apps
+publish from       :Published 7/2016
+
+total revernue USD :99600
+total revernue VND :2191200000
+number of enrolled :3320
+course name        :iOS 10 & Swift 3: From Beginner to Paid Professional
+publish from       :Published 7/2016
+
+total revernue USD :30456
+total revernue VND :670032000
+number of enrolled :1692
+course name        :Complete Swift 3 training - Get ready for XCode 8 and ios 10
+publish from       :Published 6/2016
+
+total revernue USD :25060
+total revernue VND :551320000
+number of enrolled :1253
+course name        :Swift iOS Image Uploads Using A Node Backend
+publish from       :Published 7/2016
+
+total revernue USD :18522
+total revernue VND :407484000
+number of enrolled :1029
+course name        :Swift 3 - Learn to Code with Apple's New Language
+publish from       :Published 6/2016
+
+total revernue USD :15984
+total revernue VND :351648000
+number of enrolled :666
+course name        :How to Make a Freaking Video Game - iOS, SpriteKit, SceneKit
+publish from       :Published 5/2016
+
+total revernue USD :12096
+total revernue VND :266112000
+number of enrolled :672
+course name        :iOS 9 Swift App Development for Beginners and Entrepreneurs
+publish from       :Published 6/2016
+
+total revernue USD :6210
+total revernue VND :136620000
+number of enrolled :414
+course name        :The Complete iOS 10 Developer and Entrepreneur
+publish from       :Published 6/2016
+
+total revernue USD :4860
+total revernue VND :106920000
+number of enrolled :270
+course name        :Swift 3 and iOS 10 The Final course learn to code like a pro
+publish from       :Published 6/2016
+
+total revernue USD :4640
+total revernue VND :102080000
+number of enrolled :232
+course name        :iOS 9 Swift Games and Technique Projects: Next level Coding
+publish from       :Published 6/2016
+
+total revernue USD :4380
+total revernue VND :96360000
+number of enrolled :146
+course name        :Create Social App on Custom Backend with Swift, PHP, Mysql
+publish from       :Published 6/2016
+
+total revernue USD :3270
+total revernue VND :71940000
+number of enrolled :109
+course name        :iOS 10 Swift 3 hands on features - Siri Kit , Messages , ...
+publish from       :Published 6/2016
+
+total revernue USD :1905
+total revernue VND :41910000
+number of enrolled :127
+course name        :Swift 3 Fundamentals & Essential Training
+publish from       :Published 7/2016
+
+total revernue USD :891
+total revernue VND :19602000
+number of enrolled :33
+course name        :Mastering Swift 2 Programming
+publish from       :Published 5/2016
+
+total revernue USD :768
+total revernue VND :16896000
+number of enrolled :32
+course name        :Learn Swift 3, Xcode 8 and iOS 10 Step by Step.
+publish from       :Published 7/2016
+
+total revernue USD :330
+total revernue VND :7260000
+number of enrolled :22
+course name        :Advanced Swift 2 Application Development
+publish from       :Published 5/2016
+
+total revernue USD :231
+total revernue VND :5082000
+number of enrolled :11
+course name        :iOS 9, Swift 2 & xCode 7.3: Build a live Weather app
+publish from       :Published 6/2016
+
+total revernue USD :210
+total revernue VND :4620000
+number of enrolled :10
+course name        :Build a Complete Youtube Video App in Swift 2.2 and Xcode
+publish from       :Published 6/2016
+
+total revernue USD :192
+total revernue VND :4224000
+number of enrolled :16
+course name        :Make a Chat App! (Firebase : Swift in Xcode)
+publish from       :Published 7/2016
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :6
+course name        :The Ultimate Swift Programming Tutorial
+publish from       :Published 6/2016
+
+total revernue USD :108
+total revernue VND :2376000
+number of enrolled :9
+course name        :Learn Swift TableViews By Building An iOS App
+publish from       :Published 6/2016
+
+total revernue USD :48
+total revernue VND :1056000
+number of enrolled :2
+course name        :Learning Swift 2
+publish from       :Published 7/2016
+

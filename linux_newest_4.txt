@@ -1,0 +1,258 @@
+total revernue USD :684495
+total revernue VND :15058890000
+number of enrolled :32595
+course name        :The Definitive Ethical Hacking Course - Learn From Scratch
+publish from       :Published 12/2015
+
+total revernue USD :106692
+total revernue VND :2347224000
+number of enrolled :8891
+course name        :Wi-Fi Hacking with Kali
+publish from       :Published 6/2016
+
+total revernue USD :95790
+total revernue VND :2107380000
+number of enrolled :3193
+course name        :BASH Programming Course: Master the Linux Command Line!
+publish from       :Published 12/2015
+
+total revernue USD :83676
+total revernue VND :1840872000
+number of enrolled :6973
+course name        :Learn Java Like a Kid: Build Three Desktop and Mobile Apps!
+publish from       :Published 12/2015
+
+total revernue USD :53868
+total revernue VND :1185096000
+number of enrolled :4489
+course name        :Complete Linux Shell Training for Beginners
+publish from       :Published 2/2016
+
+total revernue USD :43692
+total revernue VND :961224000
+number of enrolled :3641
+course name        :Design Your Own Web Development Lab
+publish from       :Published 4/2016
+
+total revernue USD :40044
+total revernue VND :880968000
+number of enrolled :3337
+course name        :Learn Bash Shell in Linux for Beginners
+publish from       :Published 2/2016
+
+total revernue USD :35010
+total revernue VND :770220000
+number of enrolled :2334
+course name        :Linux Security and Hardening, The Practical Security Guide.
+publish from       :Published 3/2016
+
+total revernue USD :30660
+total revernue VND :674520000
+number of enrolled :2555
+course name        :Learn Bash Shell in Linux for Beginners - Lite
+publish from       :Published 4/2016
+
+total revernue USD :25920
+total revernue VND :570240000
+number of enrolled :2160
+course name        :Learn GREP and SED on Linux for Beginners
+publish from       :Published 2/2016
+
+total revernue USD :22968
+total revernue VND :505296000
+number of enrolled :1914
+course name        :Searching in Linux: Regular Expressions for Beginners
+publish from       :Published 2/2016
+
+total revernue USD :21852
+total revernue VND :480744000
+number of enrolled :1821
+course name        :Linux Shell Course for Beginners - Lite
+publish from       :Published 3/2016
+
+total revernue USD :21780
+total revernue VND :479160000
+number of enrolled :1089
+course name        :The Complete C Developer Course - Build 7 Exciting Projects
+publish from       :Published 6/2016
+
+total revernue USD :21384
+total revernue VND :470448000
+number of enrolled :891
+course name        :Learn Ethical Hacking From Scratch
+publish from       :Published 6/2016
+
+total revernue USD :18948
+total revernue VND :416856000
+number of enrolled :1579
+course name        :Linux Shell Course for Beginners
+publish from       :Published 1/2016
+
+total revernue USD :18774
+total revernue VND :413028000
+number of enrolled :1043
+course name        :Shell Scripting : Empower Yourself to Work on Linux and Unix
+publish from       :Published 1/2016
+
+total revernue USD :17592
+total revernue VND :387024000
+number of enrolled :1466
+course name        :Learn GREP and SED on Linux for Beginners - Lite
+publish from       :Published 4/2016
+
+total revernue USD :17472
+total revernue VND :384384000
+number of enrolled :1456
+course name        :Introduction to Docker
+publish from       :Published 2/2016
+
+total revernue USD :13380
+total revernue VND :294360000
+number of enrolled :1115
+course name        :Ethical Hacking,Python and Linux Combo course
+publish from       :Published 3/2016
+
+total revernue USD :12996
+total revernue VND :285912000
+number of enrolled :1083
+course name        :Ubuntu 16.04 Xenial Xerus server advanced installation
+publish from       :Published 3/2016
+
+total revernue USD :12540
+total revernue VND :275880000
+number of enrolled :418
+course name        :The Complete Linux LPIC-1 Certification Course Exams 101-102
+publish from       :Published 4/2016
+
+total revernue USD :11400
+total revernue VND :250800000
+number of enrolled :950
+course name        :Learning Microsoft Windows and Linux with Security Built-in
+publish from       :Published 3/2016
+
+total revernue USD :11136
+total revernue VND :244992000
+number of enrolled :464
+course name        :A+ 2016: Operating Systems Fundamentals
+publish from       :Published 6/2016
+
+total revernue USD :9972
+total revernue VND :219384000
+number of enrolled :831
+course name        :Fundamentals of Unix and Linux System Administration
+publish from       :Published 2/2016
+
+total revernue USD :8028
+total revernue VND :176616000
+number of enrolled :669
+course name        :Complete IT Monitoring: Installing Nagios on Linux Server
+publish from       :Published 4/2016
+
+total revernue USD :6948
+total revernue VND :152856000
+number of enrolled :579
+course name        :Linux Security Fundamentals: Level up your security skills
+publish from       :Published 2/2016
+
+total revernue USD :3060
+total revernue VND :67320000
+number of enrolled :255
+course name        :Vagrant Quick Start: Virtualized Development Environments
+publish from       :Published 3/2016
+
+total revernue USD :2952
+total revernue VND :64944000
+number of enrolled :246
+course name        :Linux Shell Programming for Beginners
+publish from       :Published 3/2016
+
+total revernue USD :2322
+total revernue VND :51084000
+number of enrolled :86
+course name        :Hands-on Linux: Self-Hosted WordPress for Linux Beginners
+publish from       :Published 4/2016
+
+total revernue USD :1644
+total revernue VND :36168000
+number of enrolled :137
+course name        :C# Cross-Platform Tricks: Run ASP.NET Applications On Linux
+publish from       :Published 2/2016
+
+total revernue USD :1476
+total revernue VND :32472000
+number of enrolled :123
+course name        :VMware vSphere 6.0 Part 6 - P2V Migrations With Converter
+publish from       :Published 2/2016
+
+total revernue USD :1008
+total revernue VND :22176000
+number of enrolled :84
+course name        :Learn Linux and Get Certified
+publish from       :Published 6/2016
+
+total revernue USD :912
+total revernue VND :20064000
+number of enrolled :76
+course name        :Learn Swift Programming on PC, Linux or Mac
+publish from       :Published 5/2016
+
+total revernue USD :810
+total revernue VND :17820000
+number of enrolled :27
+course name        :Big data,Cassandra,AWS, Mysql,MariaDB,Linux for Beginners
+publish from       :Published 7/2016
+
+total revernue USD :708
+total revernue VND :15576000
+number of enrolled :59
+course name        :Kali Linux - The Ultimate Penetration Testing Course
+publish from       :Published 6/2016
+
+total revernue USD :588
+total revernue VND :12936000
+number of enrolled :49
+course name        :Linux For Absolute Beginners
+publish from       :Published 6/2016
+
+total revernue USD :200
+total revernue VND :4400000
+number of enrolled :10
+course name        :SAP - Installing and Configuring SAP in Linux
+publish from       :Published 12/2015
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :6
+course name        :Implementing and Using OpenSSH in Linux
+publish from       :Published 5/2016
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :15
+course name        :VMware Workstation Pro 12: A Virtualization Beginners Course
+publish from       :Published 4/2016
+
+total revernue USD :132
+total revernue VND :2904000
+number of enrolled :11
+course name        :CentOS Linux Server Setup Essentials for Webhosting and More
+publish from       :Published 7/2016
+
+total revernue USD :48
+total revernue VND :1056000
+number of enrolled :4
+course name        :A to Z of Linux System Programming
+publish from       :Published 6/2016
+
+total revernue USD :45
+total revernue VND :990000
+number of enrolled :3
+course name        :CompTIA Linux+ Administration
+publish from       :Published 8/2016
+
+total revernue USD :45
+total revernue VND :990000
+number of enrolled :3
+course name        :Linux Command Line Training for Beginners
+publish from       :Published 6/2016
+

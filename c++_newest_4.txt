@@ -1,0 +1,240 @@
+total revernue USD :94920
+total revernue VND :2088240000
+number of enrolled :3164
+course name        :Learn C++ From Scratch: A Complete C++ Course For Beginners
+publish from       :Published 5/2016
+
+total revernue USD :44124
+total revernue VND :970728000
+number of enrolled :3677
+course name        :ASP NET Core (ASP NET 5),MVC 6,C#,Angular2 & EF Crash Course
+publish from       :Published 3/2016
+
+total revernue USD :21780
+total revernue VND :479160000
+number of enrolled :1089
+course name        :The Complete C Developer Course - Build 7 Exciting Projects
+publish from       :Published 6/2016
+
+total revernue USD :20364
+total revernue VND :448008000
+number of enrolled :1697
+course name        :The Complete C++ Software Building Step By Step HD Course
+publish from       :Published 4/2016
+
+total revernue USD :18072
+total revernue VND :397584000
+number of enrolled :1004
+course name        :C programming Laboratory
+publish from       :Published 6/2016
+
+total revernue USD :17310
+total revernue VND :380820000
+number of enrolled :577
+course name        :Learn and Understand C++
+publish from       :Published 4/2016
+
+total revernue USD :13224
+total revernue VND :290928000
+number of enrolled :1102
+course name        :C++ Programming Tutorial For Beginners Learn C++ in 2 hours
+publish from       :Published 7/2016
+
+total revernue USD :9744
+total revernue VND :214368000
+number of enrolled :464
+course name        :Learn Advanced C# Scripting in Unity 5
+publish from       :Published 3/2016
+
+total revernue USD :9192
+total revernue VND :202224000
+number of enrolled :766
+course name        :Become intermediate level C programmer from level zero
+publish from       :Published 7/2016
+
+total revernue USD :7236
+total revernue VND :159192000
+number of enrolled :603
+course name        :C++ Intermediate: Build C++ Programs
+publish from       :Published 4/2016
+
+total revernue USD :7050
+total revernue VND :155100000
+number of enrolled :235
+course name        :Deep Learning: Convolutional Neural Networks in Python
+publish from       :Published 4/2016
+
+total revernue USD :6564
+total revernue VND :144408000
+number of enrolled :547
+course name        :QT C++ GUI Tutorial For Beginners
+publish from       :Published 5/2016
+
+total revernue USD :6375
+total revernue VND :140250000
+number of enrolled :425
+course name        :Learn Xamarin by Creating Real World Cross-Platform Apps
+publish from       :Published 3/2016
+
+total revernue USD :5760
+total revernue VND :126720000
+number of enrolled :192
+course name        :Data Analytics: SQL for newbs, beginners and marketers
+publish from       :Published 3/2016
+
+total revernue USD :5520
+total revernue VND :121440000
+number of enrolled :184
+course name        :Unsupervised Machine Learning Hidden Markov Models in Python
+publish from       :Published 6/2016
+
+total revernue USD :4125
+total revernue VND :90750000
+number of enrolled :275
+course name        :Xamarin Android - A Master Guide to App Development in C#
+publish from       :Published 3/2016
+
+total revernue USD :3720
+total revernue VND :81840000
+number of enrolled :124
+course name        :Unsupervised Deep Learning in Python
+publish from       :Published 5/2016
+
+total revernue USD :3150
+total revernue VND :69300000
+number of enrolled :105
+course name        :Cluster Analysis and Unsupervised Machine Learning in Python
+publish from       :Published 4/2016
+
+total revernue USD :3060
+total revernue VND :67320000
+number of enrolled :102
+course name        :Deep Learning: Recurrent Neural Networks in Python
+publish from       :Published 7/2016
+
+total revernue USD :2664
+total revernue VND :58608000
+number of enrolled :222
+course name        :Spice Up Your C# Code With Advanced Language Features
+publish from       :Published 3/2016
+
+total revernue USD :2502
+total revernue VND :55044000
+number of enrolled :139
+course name        :Unity Android Game Development With Game Art & Monetization
+publish from       :Published 6/2016
+
+total revernue USD :2403
+total revernue VND :52866000
+number of enrolled :89
+course name        :Mastering Microcontroller With Peripheral Driver Development
+publish from       :Published 7/2016
+
+total revernue USD :2268
+total revernue VND :49896000
+number of enrolled :189
+course name        :Make a Tetris-style Puzzler in Unity
+publish from       :Published 4/2016
+
+total revernue USD :1890
+total revernue VND :41580000
+number of enrolled :63
+course name        :Selenium, C# and Everything in Between
+publish from       :Published 5/2016
+
+total revernue USD :1848
+total revernue VND :40656000
+number of enrolled :88
+course name        :C# Intermediate Programming : Applications Driven Approach
+publish from       :Published 5/2016
+
+total revernue USD :1152
+total revernue VND :25344000
+number of enrolled :96
+course name        :GitHub for XCode (Swift/Objective-C) create a beautiful app
+publish from       :Published 3/2016
+
+total revernue USD :480
+total revernue VND :10560000
+number of enrolled :16
+course name        :Building a MVC 5 Membership Website
+publish from       :Published 6/2016
+
+total revernue USD :168
+total revernue VND :3696000
+number of enrolled :14
+course name        :Learning Regular Expressions with .NET
+publish from       :Published 6/2016
+
+total revernue USD :168
+total revernue VND :3696000
+number of enrolled :14
+course name        :So you want a Grade C in your Maths GCSE? (Part 2)
+publish from       :Published 4/2016
+
+total revernue USD :150
+total revernue VND :3300000
+number of enrolled :5
+course name        :Clinical Data Management: An overview
+publish from       :Published 6/2016
+
+total revernue USD :120
+total revernue VND :2640000
+number of enrolled :3
+course name        :Unity Crash Course - Learn about Physics
+publish from       :Published 8/2016
+
+total revernue USD :120
+total revernue VND :2640000
+number of enrolled :4
+course name        :Mixed Language App Development with Objective-C and Swift
+publish from       :Published 3/2016
+
+total revernue USD :108
+total revernue VND :2376000
+number of enrolled :9
+course name        :Byte-Sized-Chunks: C++ Templates and the STL
+publish from       :Published 3/2016
+
+total revernue USD :96
+total revernue VND :2112000
+number of enrolled :8
+course name        :C++ programming For 2D Games Using SFML
+publish from       :Published 6/2016
+
+total revernue USD :90
+total revernue VND :1980000
+number of enrolled :3
+course name        :Learn Collections in C# and .NET
+publish from       :Published 4/2016
+
+total revernue USD :84
+total revernue VND :1848000
+number of enrolled :7
+course name        :Unreal Engine 2D C++ Platformer
+publish from       :Published 7/2016
+
+total revernue USD :36
+total revernue VND :792000
+number of enrolled :3
+course name        :Guide To Hacking Bits in C#
+publish from       :Published 5/2016
+
+total revernue USD :24
+total revernue VND :528000
+number of enrolled :2
+course name        :Byte-Sized-Chunks: Operator Overloading in C++
+publish from       :Published 3/2016
+
+total revernue USD :0
+total revernue VND :0
+number of enrolled :0
+course name        :How to Plan a Destination Wedding
+publish from       :Published 7/2016
+
+total revernue USD :0
+total revernue VND :0
+number of enrolled :0
+course name        :How to Apply Lessons from Stations of the Cross to Your Life
+publish from       :Published 3/2016
+

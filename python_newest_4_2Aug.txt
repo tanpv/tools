@@ -1,263 +1,253 @@
-total revernue USD :216750
-total revernue VND :4768500000
-number of enrolled :7225
+total revernue USD :356950
+total revernue VND :7852900000
+number of enrolled :7139
 course name        :The Complete Python Course: Go From Beginner To Advanced!
 publish from       :Published 4/2016
 
-total revernue USD :30300
-total revernue VND :666600000
+course that has some thing related to data
+
+total revernue USD :50500
+total revernue VND :1111000000
 number of enrolled :1010
 course name        :Python: Extract, Manipulate and Analyze Data with 5 Projects
 publish from       :Published 5/2016
 
-total revernue USD :30156
-total revernue VND :663432000
-number of enrolled :2513
+total revernue USD :45800
+total revernue VND :1007600000
+number of enrolled :2290
 course name        :Introduction To Python For Ethical Hacking
 publish from       :Published 7/2016
 
-total revernue USD :24456
-total revernue VND :538032000
-number of enrolled :1019
-course name        :The Python Mega Course: Build 10 Python Applications
-publish from       :Published 6/2016
-
-total revernue USD :23616
-total revernue VND :519552000
+total revernue USD :39360
+total revernue VND :865920000
 number of enrolled :1968
 course name        :Algorithms - An Intro Course in Algorithms coded in Python
 publish from       :Published 6/2016
 
-total revernue USD :21060
-total revernue VND :463320000
-number of enrolled :1755
+total revernue USD :37640
+total revernue VND :828080000
+number of enrolled :941
+course name        :The Python Mega Course: Build 10 Python Applications
+publish from       :Published 6/2016
+
+total revernue USD :33860
+total revernue VND :744920000
+number of enrolled :1693
 course name        :Python for Beginners - The Python Masterclass: 20 Hours
 publish from       :Published 6/2016
 
-total revernue USD :14784
-total revernue VND :325248000
-number of enrolled :616
+total revernue USD :23200
+total revernue VND :510400000
+number of enrolled :580
 course name        :Python A-Z™: Python For Data Science With Real Exercises!
 publish from       :Published 7/2016
 
-total revernue USD :12015
-total revernue VND :264330000
-number of enrolled :801
+total revernue USD :19850
+total revernue VND :436700000
+number of enrolled :794
 course name        :Python Network Programming - Part 2: Multivendor Environment
 publish from       :Published 3/2016
 
-total revernue USD :11484
-total revernue VND :252648000
-number of enrolled :957
+total revernue USD :19000
+total revernue VND :418000000
+number of enrolled :950
 course name        :Python with Oracle Database
 publish from       :Published 4/2016
 
-total revernue USD :10854
-total revernue VND :238788000
-number of enrolled :603
+total revernue USD :16110
+total revernue VND :354420000
+number of enrolled :537
 course name        :Projects in Programming Languages - Ruby, Python, Java
 publish from       :Published 4/2016
 
-total revernue USD :7140
-total revernue VND :157080000
-number of enrolled :238
+total revernue USD :10900
+total revernue VND :239800000
+number of enrolled :218
 course name        :Deep Learning: Convolutional Neural Networks in Python
 publish from       :Published 4/2016
 
-total revernue USD :6336
-total revernue VND :139392000
-number of enrolled :528
-course name        :Raspberry Pi Step By Step: You Complete Guide
-publish from       :Published 3/2016
-
-total revernue USD :6120
-total revernue VND :134640000
-number of enrolled :510
+total revernue USD :10120
+total revernue VND :222640000
+number of enrolled :506
 course name        :Learn BDD/Gherkin with Python (Cucumber for Python)
 publish from       :Published 7/2016
 
-total revernue USD :5520
-total revernue VND :121440000
-number of enrolled :184
+total revernue USD :8900
+total revernue VND :195800000
+number of enrolled :178
 course name        :Unsupervised Machine Learning Hidden Markov Models in Python
 publish from       :Published 6/2016
 
-total revernue USD :4890
-total revernue VND :107580000
-number of enrolled :326
-course name        :Selenium WebDriver With Python 3.x - Novice To Ninja
-publish from       :Published 6/2016
-
-total revernue USD :4800
-total revernue VND :105600000
-number of enrolled :400
-course name        :The Complete Python/PostgreSQL Developer Course
-publish from       :Published 6/2016
-
-total revernue USD :4557
-total revernue VND :100254000
-number of enrolled :217
-course name        :Python for Programmers
-publish from       :Published 7/2016
-
-total revernue USD :4536
-total revernue VND :99792000
+total revernue USD :7560
+total revernue VND :166320000
 number of enrolled :189
 course name        :Scripting for Beginner [Python, Ruby, Shell]
 publish from       :Published 7/2016
 
-total revernue USD :3720
-total revernue VND :81840000
-number of enrolled :124
+total revernue USD :7350
+total revernue VND :161700000
+number of enrolled :294
+course name        :Selenium WebDriver With Python 3.x - Novice To Ninja
+publish from       :Published 6/2016
+
+total revernue USD :7220
+total revernue VND :158840000
+number of enrolled :361
+course name        :The Complete Python/PostgreSQL Developer Course
+publish from       :Published 6/2016
+
+total revernue USD :6755
+total revernue VND :148610000
+number of enrolled :193
+course name        :Python for Programmers
+publish from       :Published 7/2016
+
+total revernue USD :6100
+total revernue VND :134200000
+number of enrolled :122
 course name        :Unsupervised Deep Learning in Python
 publish from       :Published 5/2016
 
-total revernue USD :3492
-total revernue VND :76824000
-number of enrolled :291
+total revernue USD :5500
+total revernue VND :121000000
+number of enrolled :275
 course name        :From 0 to 1 : Spark for Data Science with Python
 publish from       :Published 6/2016
 
-total revernue USD :3150
-total revernue VND :69300000
-number of enrolled :105
+total revernue USD :4950
+total revernue VND :108900000
+number of enrolled :99
 course name        :Cluster Analysis and Unsupervised Machine Learning in Python
 publish from       :Published 4/2016
 
-total revernue USD :3090
-total revernue VND :67980000
-number of enrolled :103
+total revernue USD :4800
+total revernue VND :105600000
+number of enrolled :96
 course name        :Deep Learning: Recurrent Neural Networks in Python
 publish from       :Published 7/2016
 
-total revernue USD :3060
-total revernue VND :67320000
-number of enrolled :255
+total revernue USD :4500
+total revernue VND :99000000
+number of enrolled :225
 course name        :Python For Android Hacking Crash Course: Trojan Perspective
 publish from       :Published 6/2016
 
-total revernue USD :2280
-total revernue VND :50160000
-number of enrolled :190
+total revernue USD :3760
+total revernue VND :82720000
+number of enrolled :188
 course name        :Social Media Analytics with Python
 publish from       :Published 4/2016
 
-total revernue USD :936
-total revernue VND :20592000
-number of enrolled :78
+total revernue USD :1520
+total revernue VND :33440000
+number of enrolled :76
 course name        :Python by Example
 publish from       :Published 3/2016
 
-total revernue USD :900
-total revernue VND :19800000
-number of enrolled :75
+total revernue USD :1400
+total revernue VND :30800000
+number of enrolled :70
 course name        :Manage AWS Using Python: Core Services
 publish from       :Published 5/2016
 
-total revernue USD :744
-total revernue VND :16368000
-number of enrolled :62
+total revernue USD :1200
+total revernue VND :26400000
+number of enrolled :60
 course name        :Python Built In Modules (Python Know More)
 publish from       :Published 4/2016
 
-total revernue USD :630
-total revernue VND :13860000
-number of enrolled :42
+total revernue USD :1025
+total revernue VND :22550000
+number of enrolled :41
 course name        :Learning Python Web Penetration Testing
 publish from       :Published 5/2016
 
-total revernue USD :555
-total revernue VND :12210000
-number of enrolled :37
+total revernue USD :850
+total revernue VND :18700000
+number of enrolled :34
 course name        :Python GUI : Basics + Advanced + Build 2 Projects (2016)
 publish from       :Published 5/2016
 
-total revernue USD :528
-total revernue VND :11616000
-number of enrolled :44
-course name        :Python Regular Expressions
-publish from       :Published 7/2016
-
-total revernue USD :504
-total revernue VND :11088000
-number of enrolled :42
+total revernue USD :760
+total revernue VND :16720000
+number of enrolled :38
 course name        :Stock Technical Analysis with Python
 publish from       :Published 4/2016
 
-total revernue USD :486
-total revernue VND :10692000
-number of enrolled :27
-course name        :Python : Empower Yourself with Advanced Python Skills
-publish from       :Published 6/2016
+total revernue USD :720
+total revernue VND :15840000
+number of enrolled :36
+course name        :Python Regular Expressions
+publish from       :Published 7/2016
 
-total revernue USD :456
-total revernue VND :10032000
-number of enrolled :38
+total revernue USD :720
+total revernue VND :15840000
+number of enrolled :36
 course name        :The Developers Guide to Python 3 Programming
 publish from       :Published 5/2016
 
-total revernue USD :408
-total revernue VND :8976000
-number of enrolled :34
+total revernue USD :660
+total revernue VND :14520000
+number of enrolled :33
 course name        :Kivy with Python : Build 15 Simple Project With Kivy (2016)
 publish from       :Published 3/2016
 
-total revernue USD :396
-total revernue VND :8712000
-number of enrolled :33
+total revernue USD :620
+total revernue VND :13640000
+number of enrolled :31
 course name        :Python Object Oriented Programming Fundamentals
 publish from       :Published 4/2016
 
-total revernue USD :372
-total revernue VND :8184000
-number of enrolled :31
+total revernue USD :520
+total revernue VND :11440000
+number of enrolled :26
 course name        :Forecasting Models with Python
 publish from       :Published 6/2016
 
-total revernue USD :312
-total revernue VND :6864000
+total revernue USD :520
+total revernue VND :11440000
 number of enrolled :13
 course name        :Beginning Python
 publish from       :Published 5/2016
 
-total revernue USD :228
-total revernue VND :5016000
-number of enrolled :19
-course name        :Learn Python by solving 100 Coding Challenges
+total revernue USD :460
+total revernue VND :10120000
+number of enrolled :23
+course name        :Python : Empower Yourself with Advanced Python Skills
 publish from       :Published 6/2016
 
-total revernue USD :216
-total revernue VND :4752000
-number of enrolled :18
+total revernue USD :300
+total revernue VND :6600000
+number of enrolled :15
 course name        :Python MySql From Scratch
 publish from       :Published 7/2016
 
-total revernue USD :192
-total revernue VND :4224000
-number of enrolled :16
+total revernue USD :280
+total revernue VND :6160000
+number of enrolled :14
+course name        :Learn Python by solving 100 Coding Challenges
+publish from       :Published 6/2016
+
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :9
 course name        :Learn Python Programming with practical examples
 publish from       :Published 7/2016
 
-total revernue USD :144
-total revernue VND :3168000
-number of enrolled :12
-course name        :Introduction To Python Programming Language for beginners
-publish from       :Published 3/2016
-
-total revernue USD :132
-total revernue VND :2904000
-number of enrolled :11
+total revernue USD :180
+total revernue VND :3960000
+number of enrolled :9
 course name        :Advanced Python Made Easy
 publish from       :Published 7/2016
 
-total revernue USD :120
-total revernue VND :2640000
-number of enrolled :4
+total revernue USD :150
+total revernue VND :3300000
+number of enrolled :3
 course name        :Building Web Apps Using Flask and Neo4j
 publish from       :Published 6/2016
 
-total revernue USD :36
-total revernue VND :792000
+total revernue USD :60
+total revernue VND :1320000
 number of enrolled :3
 course name        :Investment Portfolio Analysis with Python
 publish from       :Published 7/2016

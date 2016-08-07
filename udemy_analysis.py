@@ -44,6 +44,7 @@ def analysis_for_keyword(keyword, page_number, sort_type):
 		else:
 			url_page = url + "&p={0}".format(page+1)
 
+		print url_page
 
 		driver.get(url_page)
 
@@ -109,5 +110,8 @@ def analysis_for_keyword(keyword, page_number, sort_type):
 			f.write("\n")
 
 
-analysis_for_keyword('python', 4, 'newest')
-#analysis_for_keyword('linux', 2, 'newest')
+#analysis_for_keyword('python', 4, 'newest')
+#analysis_for_keyword('linux', 4, 'newest')
+#analysis_for_keyword('c++', 4, 'newest')
+#analysis_for_keyword('swift',2,'newest')
+#analysis_for_keyword('js',2,'newest')
